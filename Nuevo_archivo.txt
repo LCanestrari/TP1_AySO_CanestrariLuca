@@ -1,0 +1,3 @@
+Buenas noches
+Tuve que ejecutar un ctrl +C en medio de el tp y supongo que se borro el historial
+Como se puede observar por el repositorio segui todos los pasos
